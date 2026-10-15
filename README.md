@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hearth: House Price Prediction
 
 A full stack learning project for estimating Ames, Iowa home sale prices. The FastAPI backend loads the local CSV and uses a Python-only nearest-neighbor model. The React and Vite frontend collects property features and displays the prediction.
@@ -78,3 +79,7 @@ Example request body:
 ```
 
 This dataset contains historical sales in Ames, Iowa. Predictions are for learning and exploration, not a formal appraisal. Dataset: [Kaggle House Prices competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
+=======
+# House_Price_Prediction
+This Project describe the house price with multiple data inputs
+>>>>>>> c711bd1c0d7326c49d06559ab5669207ecb155b1
